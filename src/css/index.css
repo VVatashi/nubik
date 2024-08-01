@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+    user-select: none;
+    touch-action: none;
+    overscroll-behavior: none;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    overscroll-behavior: contain;
+}
+
+canvas {
+    display: block;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.canvas {
+    width: 100%;
+    height: 100%;
+    background: #231F20;
+}

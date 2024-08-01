@@ -1,0 +1,1 @@
+html{box-sizing:border-box;overscroll-behavior:none;touch-action:none;-webkit-user-select:none;user-select:none}*,:after,:before{box-sizing:inherit}body,html{height:100%}body{background-color:initial;margin:0;overscroll-behavior:contain;padding:0}canvas{display:block}.container{position:relative}.canvas,.container{height:100%;width:100%}.canvas{background:#231f20}
